@@ -1,0 +1,38 @@
+div{
+    margin-top: 250px;
+    margin-left:1000px;
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(32, 133, 57);
+    border-radius: 50px;
+    color: white;
+}
+input{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(20, 94, 41);
+    border-radius: 50px;
+    overflow: hidden;
+    outline-color: rgb(40, 128, 45);
+    text-align: center;
+    color: whitesmoke;
+    border-color: rgb(17, 68, 39);
+    margin-left: 10px;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-top: 70px;
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(18, 113, 43);
+    color: whitesmoke;
+    outline-color: rgb(0, 3, 2);
+    border-color: #000000;
+}
+body{
+    background-color: black;
+}
